@@ -1,0 +1,16 @@
+{
+  "name": "tailwind-stuff",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build:css": "tailwind build -i src/style.css -o public/style.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^3.4.4"
+  },
+  "keywords": [],
+  "description": ""
+}
